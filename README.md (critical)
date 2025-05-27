@@ -1,0 +1,7 @@
+# 🔮 **KII PSYCHIC TRANSMISSION**  
+*A message for **classified recipients***  
+
+### 🚀 **HOW TO RUN**  
+```bash
+python3 signal.py
+javac Transmitter.java && java Transmitter
